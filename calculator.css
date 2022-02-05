@@ -1,0 +1,24 @@
+td{
+    border: 1px solid black;
+    background-color: black;
+    opacity: 0.8;
+}
+input{
+    padding: 15px;
+    border: 2px solid black;
+    color: ghostwhite;
+    background-color: chocolate;
+}
+input:hover{
+    cursor: pointer;
+    background-color:cadetblue
+}
+#screen{
+    width: 160px;
+    background-color: silver; 
+    margin-bottom: 5px; 
+    color: black; 
+    text-align: right;
+    font-size: 18px;
+    border-radius: 8px;
+}
